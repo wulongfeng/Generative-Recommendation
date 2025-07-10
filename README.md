@@ -8,7 +8,11 @@ Some paper or methods that are related to generative recommendation.
 ## Semantic IDs
 
 
-## Preference Alignment
+## Preference Alignment with Reinforcement Learning
+# RL (Reinforcement Learning)
+* Book: [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+
+### DPO (Direct Policy Optimization)
 * NeurIPS'2023 Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 * NeurIPS'2024 On Softmax Direct Preference Optimization for Recommendation
 
