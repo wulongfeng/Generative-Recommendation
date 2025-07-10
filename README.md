@@ -11,6 +11,9 @@ Some paper or methods that are related to generative recommendation.
 ## Preference Alignment with Reinforcement Learning
 # RL (Reinforcement Learning)
 * Book: [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+* PPO (proximal policy optimization):
+*   paper: https://arxiv.org/pdf/1707.06347
+*   code :https://github.com/deepspeedai/DeepSpeedExamples/blob/master/applications/DeepSpeed-Chat/dschat/rlhf/ppo_trainer.py
 
 ### DPO (Direct Policy Optimization)
 * NeurIPS'2023 Direct Preference Optimization: Your Language Model is Secretly a Reward Model
