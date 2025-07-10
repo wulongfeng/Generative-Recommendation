@@ -15,10 +15,11 @@ Some paper or methods that are related to generative recommendation.
   +  paper: https://arxiv.org/pdf/1707.06347
   +  code: https://github.com/deepspeedai/DeepSpeedExamples/blob/master/applications/DeepSpeed-Chat/dschat/rlhf/ppo_trainer.py
 
-### DPO (Direct Policy Optimization)
+# DPO (Direct Policy Optimization)
 * NeurIPS'2023 Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 * NeurIPS'2024 On Softmax Direct Preference Optimization for Recommendation
 
+* [Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study](https://arxiv.org/pdf/2404.10719)
 
 ## Efficient Inference
 * ICML'2023 Fast Inference from Transformers via Speculative Decoding
