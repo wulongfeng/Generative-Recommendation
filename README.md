@@ -6,6 +6,11 @@ Some paper or methods that are related to generative recommendation.
 
 
 ## Semantic IDs
+  + First proposed by [paper](https://papers.neurips.cc/paper_files/paper/2023/file/20dcab0f14046a5c6b02b61da9f13229-Paper-Conference.pdf) titled: Recommender Systems with Generative Retrieval. Mainly about RQ-VAE.
+
+## RQ-VAE
+  * Improve the utilization of codebook
+  * Decrese the conflict ratio of sementic IDs
 
 
 # RL (Reinforcement Learning)
