@@ -8,7 +8,6 @@ Some paper or methods that are related to generative recommendation.
 ## Semantic IDs
 
 
-## Preference Alignment with Reinforcement Learning
 # RL (Reinforcement Learning)
 * Book: [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 * PPO (proximal policy optimization):
@@ -24,7 +23,7 @@ Some paper or methods that are related to generative recommendation.
 * GRPO (Group Relative Policy Optimization)
   + First proposed by [DeepSeek](https://arxiv.org/pdf/2501.12948).
 
-## Efficient Inference
+# Efficient Inference
 * ICML'2023 [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/pdf/2211.17192)
 * ICML'2024 [Better & Faster Large Language Models via Multi-token Prediction](https://arxiv.org/pdf/2404.19737)
 * ICLR'2025 [EFFICIENT INFERENCE FOR LARGE LANGUAGE MODELBASED GENERATIVE RECOMMENDATION](https://arxiv.org/pdf/2410.05165)
